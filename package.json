@@ -1,0 +1,12 @@
+{
+  "name": "curso_alura_javascript",
+  "version": "1.0.0",
+  "description": "Curso Alura bytebank",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+},
+  "author": "André Scheffer",
+  "license": "MIT",
+  "type":  "module"
+}
